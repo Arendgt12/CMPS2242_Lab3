@@ -1,0 +1,13 @@
+# Go binaries
+shapes/shapes
+web-api/cmd/api/api
+
+# Generic binary patterns
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# OS files
+.DS_Store
